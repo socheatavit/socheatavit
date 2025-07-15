@@ -7,6 +7,3 @@
 
 - 🔁 I'm starting my web development journey again — and excited about it!
 
-### 📫 Connect with Me
-- Facebook: Socheata
-- Email: socheatavit@gmail.com
